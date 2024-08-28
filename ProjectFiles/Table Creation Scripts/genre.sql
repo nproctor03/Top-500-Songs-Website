@@ -1,0 +1,9 @@
+CREATE TABLE `genre`
+(
+  `id` int
+(11) NOT NULL AUTO_INCREMENT,
+  `genres` varchar
+(100) NOT NULL,
+  PRIMARY KEY
+(`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=142 DEFAULT CHARSET=utf8
